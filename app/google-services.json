@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427607186984",
+    "project_id": "razanlab",
+    "storage_bucket": "razanlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427607186984:android:d3370a1e1ed9e4430bdf1d",
+        "android_client_info": {
+          "package_name": "com.example.mynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427607186984-43hvt7lbf1vgd1pmqertetceeg8lmcto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClvl42SJ4cmpwqLb4pzpjFuImy_Wya45E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427607186984-43hvt7lbf1vgd1pmqertetceeg8lmcto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
