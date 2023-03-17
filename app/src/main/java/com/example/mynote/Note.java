@@ -1,6 +1,6 @@
 package com.example.mynote;
 
-import java.sql.Timestamp;
+import com.google.firebase.Timestamp;
 
 public class Note {
     String title;
@@ -27,11 +27,11 @@ public class Note {
         this.content = content;
     }
 
-    public Timestamp getTimestamp() {
+    public com.google.firebase.Timestamp getTimestamp() {
         return timestamp;
     }
 
-    public void setTimestamp(Timestamp timestamp) {
+    public void setTimestamp(com.google.firebase.Timestamp timestamp) {
         this.timestamp = timestamp;
     }
 }

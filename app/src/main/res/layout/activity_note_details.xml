@@ -64,5 +64,16 @@
             android:textStyle="bold" />
     </LinearLayout>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/delet_note_text_view_btn"
+        android:text="Delet note"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:visibility="gone"
+        android:textStyle="bold"
+        android:textColor="#FF0000"/>
 
 </RelativeLayout>
